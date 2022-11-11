@@ -7,7 +7,11 @@ Multiplatform Developer
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [victorsg.dev@gmail.com](mailto:victorsg.dev@gmail.com)
 * Very interested in Java
-
+<div>
+  <a>
+   <img src="https://komarev.com/ghpvc/?username=sebas2409&style=flat-square&color=blue" alt=""/>
+   <a/>
+   <div>
 ### Skills
 
 <p align="left">
