@@ -9,7 +9,7 @@ Multiplatform Developer
 * Very interested in Java
 <div>
   <a>
-   <img src="https://komarev.com/ghpvc/?username=sebas2409&style=flat-square&color=blue" alt=""/>
+   <img src="https://komarev.com/ghpvc/?username=victorsgDev&style=flat-square&color=blue" alt=""/>
    <a/>
    <div>
 ### Skills
