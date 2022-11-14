@@ -12,6 +12,7 @@ Multiplatform Developer
    <img src="https://komarev.com/ghpvc/?username=victorsgDev&style=flat-square&color=blue" alt=""/>
    <a/>
    <div>
+     
 ### Skills
 
 <p align="left">
